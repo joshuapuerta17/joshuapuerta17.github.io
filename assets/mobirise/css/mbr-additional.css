@@ -1202,6 +1202,7 @@ h6,
 }
 #msg-box6-1e P {
   font-family: 'Open Sans', sans-serif;
+  color: #000000;
 }
 #msg-box6-1e H3 {
   font-family: 'Indie Flower', cursive;
@@ -1371,107 +1372,6 @@ h6,
   background-color: #ffffff;
 }
 
-
-
-
-
-#menu-2i .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-2i .navbar-caption {
-  color: #ffffff;
-}
-#menu-2i .navbar-toggler {
-  color: #ffffff;
-}
-#menu-2i .link,
-#menu-2i .dropdown-item {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-}
-#menu-2i .link {
-  font-size: 0.75rem;
-}
-#menu-2i .dropdown-item,
-#menu-2i .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-2i .link:hover,
-#menu-2i .dropdown-item:hover,
-#menu-2i .link:focus,
-#menu-2i .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-2i .link[aria-expanded="true"],
-#menu-2i .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-2i .nav-dropdown-sm .link:focus,
-#menu-2i .nav-dropdown-sm .link:hover,
-#menu-2i .nav-dropdown-sm .dropdown-item:focus,
-#menu-2i .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-2i .navbar,
-#menu-2i .nav-dropdown-sm,
-#menu-2i .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-2i .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-2i .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-2i .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-2i .bg-color.transparent.opened .link:hover,
-#menu-2i .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-2i .link[aria-expanded="true"],
-#menu-2i .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-2i.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-2i .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-2i .close-icon::before,
-#menu-2i .close-icon::after {
-  background-color: #ffffff;
-}
-#msg-box6-2j .mbr-section-title,
-#msg-box6-2j .lead p {
-  color: #fff;
-}
-#msg-box6-2j P {
-  font-family: 'Open Sans', sans-serif;
-}
-#msg-box6-2j H3 {
-  font-family: 'Indie Flower', cursive;
-}
-#features7-2k .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-2k .iconbox {
-  background-color: #3d8eb9;
-  border-color: #3d8eb9;
-}
-#header3-2l .mbr-section-title,
-#header3-2l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2l H3 {
-  font-family: 'Indie Flower', cursive;
-}
-#content7-2m P {
-  font-size: 17px;
-  font-family: 'Open Sans', sans-serif;
-}
-
 #menu-2o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1545,4 +1445,93 @@ h6,
 }
 #form1-2q .mbr-section-title {
   color: #ffffff;
+}
+
+
+#menu-2i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2i .navbar-caption {
+  color: #ffffff;
+}
+#menu-2i .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2i .link,
+#menu-2i .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-2i .link {
+  font-size: 0.75rem;
+}
+#menu-2i .dropdown-item,
+#menu-2i .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-2i .link:hover,
+#menu-2i .dropdown-item:hover,
+#menu-2i .link:focus,
+#menu-2i .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-2i .link[aria-expanded="true"],
+#menu-2i .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-2i .nav-dropdown-sm .link:focus,
+#menu-2i .nav-dropdown-sm .link:hover,
+#menu-2i .nav-dropdown-sm .dropdown-item:focus,
+#menu-2i .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-2i .navbar,
+#menu-2i .nav-dropdown-sm,
+#menu-2i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2i .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-2i .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2i .bg-color.transparent.opened .link:hover,
+#menu-2i .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-2i .link[aria-expanded="true"],
+#menu-2i .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-2i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2i .close-icon::before,
+#menu-2i .close-icon::after {
+  background-color: #ffffff;
+}
+#header3-2l .mbr-section-title,
+#header3-2l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2l H3 {
+  font-family: 'Indie Flower', cursive;
+}
+#pricing-table1-2x .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-2x .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box5-2z P {
+  color: #ffffff;
+}
+#msg-box5-2z B {
+  font-size: 30px;
 }
