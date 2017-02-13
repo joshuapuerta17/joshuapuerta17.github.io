@@ -29,7 +29,7 @@
     "Office Suite.html": {
       "settings": {
         "title": "Adobe Illustrator",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -185,7 +185,7 @@
     "Illustrator.html": {
       "settings": {
         "title": "Adobe Illustrator",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -487,7 +487,7 @@
     "Audition.html": {
       "settings": {
         "title": "Adobe Audition",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -789,7 +789,7 @@
     "Priemere.html": {
       "settings": {
         "title": "Adobe Priemere",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1091,7 +1091,7 @@
     "Indesign.html": {
       "settings": {
         "title": "Adobe Indesign",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -1393,7 +1393,7 @@
     "123D.html": {
       "settings": {
         "title": "123D",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1695,7 +1695,7 @@
     "Power Point.html": {
       "settings": {
         "title": "Microsoft Power Point",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2004,7 +2004,7 @@
     "Teacher 2.html": {
       "settings": {
         "title": "Teacher 2",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -2575,7 +2575,7 @@
     "AdobePhotoshop.html": {
       "settings": {
         "title": "Adobe Photoshop",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2889,7 +2889,7 @@
     "page18.html": {
       "settings": {
         "title": "Adobe Priemere",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -3360,7 +3360,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -4065,7 +4065,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 16
+        "order": 1
       },
       "components": [
         {
