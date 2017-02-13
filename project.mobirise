@@ -4197,7 +4197,7 @@
           },
           "title": "JOSHUA PUERTA",
           "text": "Little about me",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">INTODUCTION</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">INTODUCTION</a> ",
           "_styles": {
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
