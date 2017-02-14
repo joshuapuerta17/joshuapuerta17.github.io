@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Teacher 3.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1890,7 +1890,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-384x128-16.png",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-384x128-18.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1984,7 +1984,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-128x42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-128x42-7.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2181,7 +2181,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-128x42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-128x42-7.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2378,7 +2378,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-128x42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-128x42-7.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -3397,7 +3397,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-128x42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-128x42-7.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -3817,7 +3817,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-128x42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-128x42-7.png",
               "width": 128,
               "active": true,
               "link": "",
