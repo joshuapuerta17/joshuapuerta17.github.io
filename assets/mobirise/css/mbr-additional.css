@@ -1458,6 +1458,13 @@ h6,
 #content2-3l P {
   color: #ffffff;
 }
+#header3-3z .mbr-section-title,
+#header3-3z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3z H3 {
+  color: #ffffff;
+}
 #contacts4-3r .btn {
   font-family: 'Open Sans', sans-serif;
 }
