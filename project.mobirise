@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "resume.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,9 +21,10 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 152,
+    "uniqCompNum": 153,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Office Suite.html": {
@@ -4008,42 +4009,21 @@
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/7pc8f0iUEk4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#201e1e",
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButton": false
           },
           "title": "Video",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-47",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#201e1e",
-            "showMeta": true
-          },
-          "title": "Quote",
-          "meta": ""
         },
         {
           "_tags": [
@@ -4148,6 +4128,33 @@
           "_anchor": "gallery2-40",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-48",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCAakzoVoZivJINlBINT18VQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [
