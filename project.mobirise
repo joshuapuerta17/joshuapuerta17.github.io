@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 153,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -3934,7 +3934,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-384x128-1.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128-2.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3945,7 +3945,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "idea",
+              "name": "apple",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0
@@ -3987,7 +3987,7 @@
           },
           "title": "JOSHUA PUERTA",
           "text": "Little about me",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a> "
         },
         {
           "_styles": {
@@ -4001,8 +4001,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-46",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
