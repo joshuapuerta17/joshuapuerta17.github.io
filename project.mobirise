@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "httpsjoshuapuerta17.github.io.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -4359,7 +4359,7 @@
         }
       ]
     },
-    "httpsjoshuapuerta17.github.io.html": {
+    "index.html": {
       "settings": {
         "title": "https://joshuapuerta17.github.io",
         "meta_descr": "",
