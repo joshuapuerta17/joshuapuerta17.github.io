@@ -1759,6 +1759,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 
+
 #menu-4w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1826,4 +1827,7 @@ h6,
 #menu-4w .close-icon::before,
 #menu-4w .close-icon::after {
   background-color: #ffffff;
+}
+#contacts4-4l .btn {
+  font-family: 'Open Sans', sans-serif;
 }
