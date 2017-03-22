@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Priemere.html",
+    "currentPage": "More.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 170,
+    "uniqCompNum": 179,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2697,7 +2697,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2721,9 +2721,9 @@
               "size": 0
             }
           },
-          "title": "&nbsp; <br><span style=\"color: inherit; line-height: 1.1;\"><br></span><br>Adobe Photoshop<br><br><br>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<br>Adobe Photoshop<br></p>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"More.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -4990,6 +4990,473 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "More.html": {
+      "settings": {
+        "title": "IC3",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-4w",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/joshua-puerta-logo-384x128-5.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\" target=\"_blank\">Introduction</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"123D.html\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AdobePhotoshop.html\" target=\"_blank\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Office Suite.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://joshuapuerta17.github.io/Discuss IT Topic 6 Joshua Puerta.pdf\">Discuss IT 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint.html\">Power Point</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Audition.html\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Priemere.html\">Adobe Priemere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Indesign.html\">Adobe Indesign</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><p>&nbsp;Credential</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"IC3.html\"><p>IC3<br>-Living online<br>-Computer Fundementals</p></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Gallery.html\">Gallery</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><p>References</p></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mr.Pate.html\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"teacher 1.html\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher 2.html\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Teacher 3.html\">Teacher 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"resume.html\" aria-expanded=\"false\"><p>Job Description</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page16.html\">RESUME</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-1-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-1-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-3-2000x1725-1-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-3-2000x1725-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-4-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-4-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-5-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-5-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-6-2000x1725-1-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-6-2000x1725-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-8-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-8-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-9-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-9-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-11-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-11-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-12-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-12-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-15-2000x1725-1-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-15-2000x1725-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-16-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-16-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-17-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-17-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-18-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-18-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-19-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-19-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-20-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-20-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-21-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-21-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-22-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-22-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-23-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-23-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-24-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-24-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-26-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-26-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-27-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-27-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-28-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-28-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-29-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-29-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-30-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-30-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-31-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-31-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-32-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-32-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-32-2000x1725-1-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-32-2000x1725-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Picaso Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-33-2000x1725-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/joshua-puerta-picaso-33-2000x1725.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-4y",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
